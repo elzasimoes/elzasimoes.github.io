@@ -5,10 +5,11 @@
   "userimg": "https://avatars2.githubusercontent.com/u/12284488?v=4",
   "sort": "created",
   "order": "asc",
-  "includeFork": true,
+  "includeFork": false,
   "theme": "light.css",
   "types": [
    "all"
-  ]
+  ],
+  "linkedin": "elzasimoes"
  }
 ]
