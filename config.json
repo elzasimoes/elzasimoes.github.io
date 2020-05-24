@@ -4,12 +4,11 @@
   "name": "Elza Simões",
   "userimg": "https://avatars2.githubusercontent.com/u/12284488?v=4",
   "sort": "created",
-  "order": "asc",
+  "order": "desc",
   "includeFork": false,
   "theme": "light.css",
   "types": [
    "all"
-  ],
-  "linkedin": "elzasimoes"
+  ]
  }
 ]
